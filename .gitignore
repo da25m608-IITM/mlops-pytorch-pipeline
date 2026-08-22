@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Data & model artifacts
+data/
+checkpoints/
+*.pt
+*.pth
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Env
+.env
